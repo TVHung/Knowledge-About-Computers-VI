@@ -10,7 +10,7 @@
 ![cautruc](https://imgur.com/Na8Ym2e) 
 
 ##2. Vai trò
-##### Bạn có thể tưởng tượng kernel như một người phiên dịch. Nó chuyển đổi các yêu cầu đầu vào / đầu ra từ phần mềm thành một tập lệnh cho CPU và GPU. Nói một cách đơn giản, đó là một lớp ở giữa phần mềm và phần cứng giúp mọi thứ đều có thể hoạt động. Kernel quản lý:
+#### Bạn có thể tưởng tượng kernel như một người phiên dịch. Nó chuyển đổi các yêu cầu đầu vào / đầu ra từ phần mềm thành một tập lệnh cho CPU và GPU. Nói một cách đơn giản, đó là một lớp ở giữa phần mềm và phần cứng giúp mọi thứ đều có thể hoạt động. Kernel quản lý:
 
 * CPU / GPU.
 * Bộ nhớ Memory.
@@ -21,8 +21,8 @@
 
  ![cautruc](https://imgur.com/4xfd3EZ) 
 
-##### Kernel có tác dụng bảo vệ máy tính. Nếu không có bảo vệ bất kì máy tính nào cũng có thể thực hiện bất kì tác vụ nào trên máy tính dẫn đến làm hỏng máy tính và hỏng dữ liệu của bạn.
-##### Kernel thường cung cấp các tiện ích xử lý này cho các tiến trình của các phần mềm ứng dụng qua các cơ chế liên lạc giữa các tiến trình (inter-process communication) và các hàm hệ thống (system call).
+#### Kernel có tác dụng bảo vệ máy tính. Nếu không có bảo vệ bất kì máy tính nào cũng có thể thực hiện bất kì tác vụ nào trên máy tính dẫn đến làm hỏng máy tính và hỏng dữ liệu của bạn.
+#### Kernel thường cung cấp các tiện ích xử lý này cho các tiến trình của các phần mềm ứng dụng qua các cơ chế liên lạc giữa các tiến trình (inter-process communication) và các hàm hệ thống (system call).
 
 ## 3.	Cách hoạt động
 #### Sau đây tôi sẽ giải thích một cách dễ hiểu về hoạt động của kernel cho các bạn:
