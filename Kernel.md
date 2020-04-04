@@ -9,7 +9,7 @@
 
 <img src="https://imgur.com/Na8Ym2e"> 
 
-##2. Vai trò
+## 2. Vai trò
 #### Bạn có thể tưởng tượng kernel như một người phiên dịch. Nó chuyển đổi các yêu cầu đầu vào / đầu ra từ phần mềm thành một tập lệnh cho CPU và GPU. Nói một cách đơn giản, đó là một lớp ở giữa phần mềm và phần cứng giúp mọi thứ đều có thể hoạt động. Kernel quản lý:
 
 * CPU / GPU.
@@ -48,7 +48,7 @@
 ![cautruc](https://imgur.com/F5gyr4C) 
 
  
-##4.	Các loại kernel
+## 4.	Các loại kernel
 ### Kernel nguyên khối (Monolithic Kernel)
 * Ở đây, cả OS và Kernel đều chạy trong cùng một không gian bộ nhớ và phù hợp trong đó bảo mật không phải là vấn đề đáng lo ngại. Nó dẫn đến truy cập nhanh hơn, nhưng nếu có lỗi trong trình điều khiển thiết bị, toàn bộ hệ thống sẽ gặp sự cố.
 
