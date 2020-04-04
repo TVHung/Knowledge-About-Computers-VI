@@ -7,7 +7,7 @@
 
 >Quản lý tài nguyên của hệ thống (Liên lạc giữa thành phần phần cứng và phần mềm của hệ thống).
 
-![cautruc](https://imgur.com/Na8Ym2e) 
+<img src="https://imgur.com/Na8Ym2e"> 
 
 ##2. Vai trò
 #### Bạn có thể tưởng tượng kernel như một người phiên dịch. Nó chuyển đổi các yêu cầu đầu vào / đầu ra từ phần mềm thành một tập lệnh cho CPU và GPU. Nói một cách đơn giản, đó là một lớp ở giữa phần mềm và phần cứng giúp mọi thứ đều có thể hoạt động. Kernel quản lý:
