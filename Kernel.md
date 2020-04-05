@@ -63,3 +63,5 @@
 
 ### Kernel Exo
 * Kernel này chỉ cung cấp bảo vệ quá trình và xử lý tài nguyên. Tuy nhiên, nó chủ yếu được sử dụng khi bạn đang thử nghiệm một dự án đường phố và bạn nâng cấp lên loại Kernel tốt hơn.
+
+***Nếu có sai đâu đó thì liên hệ [mình](https://www.facebook.com/hung.tv99) để sửa lại :v***
